@@ -1,0 +1,140 @@
+2020-12-15T01:58:59+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:58:59+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:58:59+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php(3): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:58:59+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:58:59+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:59:00+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php(3): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:59:09+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:59:42+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T01:59:43+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T02:00:03+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T02:00:06+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_logger_in() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php:105
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(730): require_once()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template.php(676): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 105
+
+2020-12-15T22:19:08+00:00 CRITICAL syntax error, unexpected 'px' (T_STRING) in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 134
+
+2020-12-15T22:19:09+00:00 CRITICAL syntax error, unexpected 'px' (T_STRING) in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 134
+
+2020-12-15T22:19:10+00:00 CRITICAL syntax error, unexpected 'px' (T_STRING) in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 134
+
+2020-12-15T22:19:11+00:00 CRITICAL syntax error, unexpected 'px' (T_STRING) in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 134
+

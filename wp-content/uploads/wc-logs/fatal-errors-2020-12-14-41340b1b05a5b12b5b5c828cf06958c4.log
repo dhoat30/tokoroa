@@ -1,0 +1,188 @@
+2020-12-14T18:53:16+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:130
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 130
+
+2020-12-14T18:53:33+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:130
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 130
+
+2020-12-14T18:53:42+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:129
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 129
+
+2020-12-14T18:56:53+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:129
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 129
+
+2020-12-14T19:48:07+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:129
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 129
+
+2020-12-14T19:50:45+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:50:49+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:51:04+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:51:14+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:51:16+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:51:25+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:51:52+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:52:12+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:55:47+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:56:25+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:56:28+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:56:51+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:57:12+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:57:14+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:57:24+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T19:57:56+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 126
+
+2020-12-14T20:08:51+00:00 CRITICAL syntax error, unexpected end of file in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 1299
+
+2020-12-14T20:08:53+00:00 CRITICAL syntax error, unexpected end of file in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 1299
+
+2020-12-14T20:10:53+00:00 CRITICAL syntax error, unexpected end of file in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 1301
+
+2020-12-14T20:20:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php:143
+Stack trace:
+#0 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/liquorhutotahuhu/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/liquorhutotahuhu/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 143
+
+2020-12-14T20:58:26+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 121
+
+2020-12-14T20:58:30+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 121
+
+2020-12-14T22:39:07+00:00 CRITICAL syntax error, unexpected ''meta_query'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/front-page.php on line 198
+

@@ -1,0 +1,6 @@
+2020-12-28T21:11:34+00:00 CRITICAL syntax error, unexpected '<<' (T_SL) in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/functions.php on line 31
+
+2020-12-28T21:13:11+00:00 CRITICAL syntax error, unexpected '<<' (T_SL) in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/functions.php on line 31
+
+2020-12-28T21:13:30+00:00 CRITICAL syntax error, unexpected '<<' (T_SL), expecting end of file in /Applications/MAMP/htdocs/liquorhutotahuhu/wp-content/themes/liquor-hut-otahuhu/header.php on line 123
+

@@ -22,13 +22,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 if(strstr($_SERVER['SERVER_NAME'], 'localhost')){
-	define( 'DB_NAME', 'liquorHutKawerau' );
+	define( 'DB_NAME', 'liquorHutTokoroa' );
 	define( 'DB_USER', 'root' );
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', '127.0.0.1' );
 }
 else{ 
-	define( 'DB_NAME', 'dbst8kazvn3ctc');
+	define( 'DB_NAME', 'dbs396ft4wmr44');
 
 	define( 'DB_USER', 'ugpyjfbav3dpv');
 	define( 'DB_PASSWORD', '(3(4jbol}1c6');

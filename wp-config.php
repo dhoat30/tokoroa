@@ -29,6 +29,7 @@ if(strstr($_SERVER['SERVER_NAME'], 'localhost')){
 }
 else{ 
 	define( 'DB_NAME', 'dbst8kazvn3ctc');
+
 	define( 'DB_USER', 'ugpyjfbav3dpv');
 	define( 'DB_PASSWORD', '(3(4jbol}1c6');
 	define( 'DB_HOST', '127.0.0.1' );
